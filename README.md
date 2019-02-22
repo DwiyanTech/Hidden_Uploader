@@ -5,6 +5,6 @@
 /* Enjoy It Just For Education :) LUN4T1C_ HIDDEN UPLOADER V1.3  */ 
 
 With Get Method 
-#TECH_USE
+# Technical Use
 namefile.php?lunatic=(Password) 
 You Can Change The Password IN $pw Variabel Enjoy It :)
