@@ -7,4 +7,5 @@
 With Get Method 
 # Technical Use
 namefile.php?lunatic=(Password) 
+
 You Can Change The Password IN $pw Variabel Enjoy It :)
